@@ -1,0 +1,199 @@
+algorithm
+array
+boolean
+bug
+byte
+class
+code
+compiler
+conditional
+constructor
+database
+debugging
+declaration
+encapsulation
+exception
+function
+iteration
+library
+loop
+method
+object
+operator
+parameter
+polymorphism
+recursion
+syntax
+variable
+inheritance
+interface
+pointer
+program
+script
+string
+variable
+binary
+compiler
+data
+developer
+framework
+interface
+logic
+module
+network
+package
+protocol
+queue
+source
+stack
+subroutine
+thread
+version
+web
+backend
+frontend
+server
+client
+database
+query
+security
+session
+authentication
+authorization
+encryption
+decryption
+hashing
+API
+JSON
+XML
+REST
+framework
+dependency
+repository
+framework
+framework
+middleware
+routing
+template
+validation
+testing
+debugging
+performance
+optimization
+agile
+SCRUM
+Kanban
+version control
+git
+repository
+branch
+merge
+conflict
+continuous integration
+continuous deployment
+deployment
+cloud
+container
+virtualization
+scaling
+monitoring
+logging
+algorithm
+data structure
+big O notation
+recursion
+sorting
+searching
+hashing
+tree
+graph
+linked list
+queue
+stack
+heap
+binary search
+dynamic programming
+greedy algorithm
+recursion
+branch and bound
+backtracking
+computational complexity
+asymptotic notation
+P, NP, NP-complete
+discrete mathematics
+operating system
+process
+thread
+scheduling
+memory management
+file system
+device driver
+deadlock
+concurrency
+parallel computing
+databases
+relational
+SQL
+NoSQL
+ACID
+database normalization
+query optimization
+transaction
+indexing
+data warehouse
+data mining
+Artificial Intelligence
+machine learning
+neural network
+deep learning
+reinforcement learning
+natural language processing
+computer vision
+data preprocessing
+feature extraction
+classification
+regression
+clustering
+dimensionality reduction
+decision tree
+ensemble methods
+support vector machines
+k-means
+random forest
+gradient boosting
+Naive Bayes
+k-nearest neighbors
+evaluation metrics
+bias-variance tradeoff
+overfitting
+underfitting
+cross-validation
+NLP (Natural Language Processing)
+NLTK (Natural Language Toolkit)
+regular expression
+tokenization
+lemmatization
+POS tagging
+sentiment analysis
+text classification
+information retrieval
+spell checking
+OCR (Optical Character Recognition)
+speech recognition
+chatbot
+recommender system
+data visualization
+matplotlib
+seaborn
+ggplot
+D3.js
+Tableau
+plotly
+data exploration
+EDA (Exploratory Data Analysis)
+data cleaning
+data wrangling
+data preprocessing
+data transformation
+feature engineering
+outlier detection
